@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+	font-family: Inconsolata;
+	background-color: #5385d6
+}
+
+h1 {
+	font-size: 42px;
+}
+
+h2 {
+	font-size: 32px;
+}
+
+#header {
+	background-color: #5385d6
+	padding: 80px;
+	margin-bottom: 50px;
+	}
+
+a: hover {
+	color: #b7b540;
+}
